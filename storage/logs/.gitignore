@@ -1,0 +1,8 @@
+# .gitignore
+.env
+.env
+/vendor/
+/node_modules/
+/storage/framework/
+/storage/logs/
+/bootstrap/cache/
